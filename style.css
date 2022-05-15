@@ -1,0 +1,13 @@
+* {...}
+.title {...}
+
+p {
+	background-color: skyblue;
+	display: inline-block;
+	width: 350px;
+	height: 150px;
+	padding: 50px;
+	border: 5px solid teal;
+	margin-top: 50px;
+	margin-left: 50px;
+}

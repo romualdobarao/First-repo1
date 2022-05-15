@@ -1,0 +1,11 @@
+* {...}
+.title {...}
+
+p {
+	border: 5px solid teal;
+	display: inline-block;
+	height: 150px; 
+	width: 200px;
+	margin: 10%;
+	padding: 10%;
+}
